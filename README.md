@@ -7,7 +7,8 @@ I'm brushing up my skills in statistics, probability, and linear algebra
 
 Because...
 
-I'm reconverting to _**Data Science**_
+I'm reconverting to _**Data Science**_  
+
 
 > [!NOTE]
 > I am currently following a Bootcamp by ***HyperionDev*** and  
