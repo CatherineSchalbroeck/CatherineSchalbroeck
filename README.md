@@ -3,6 +3,7 @@
 - I'm a *Project Manager Finance*
 - I'm currently learning **Python** and 
 - I'm brushing up my maths skills in statistics, probability, etc.
+
 Because...
 - I'm reconverting to Data Science 
 
