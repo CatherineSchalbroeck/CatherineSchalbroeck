@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 😎
+
+I'm a *Project Manager Finance*
+I'm currently learning **Python** and 
+I'm brushing up my maths skills in statistics, probability, etc.
+Because...
+I'm reconverting to Data Science 
+![image3](https://github.com/CatherineSchalbroeck/CatherineSchalbroeck/assets/77054227/3fbd4b91-afc4-46bf-8739-38125ab436fc)
+
 
 <!--
 **CatherineSchalbroeck/CatherineSchalbroeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
