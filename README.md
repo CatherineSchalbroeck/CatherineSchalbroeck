@@ -1,17 +1,22 @@
 ### Hi there 😎
 
-- I'm Catherine
-- I'm a *Project Manager Finance*
-- I'm currently learning __Python__ and 
-- I'm brushing up my maths skills in statistics, probability, etc.
+I'm Catherine
+
+I'm a *Project Manager Finance*
+
+I'm currently learning __Python__ and 
+
+I'm brushing up my maths skills in statistics, probability, etc.
 
 Because...
-- I'm reconverting to _**Data Science**_
+
+I'm reconverting to _**Data Science**_
 
 ![image3](https://github.com/CatherineSchalbroeck/CatherineSchalbroeck/assets/77054227/3fbd4b91-afc4-46bf-8739-38125ab436fc)
 
 > [!NOTE]
-> I'm learning with Hyperion Dev.
+> I am currently following a Bootcamp by HyperionDev.
+> I should make my firsts steps in the world of Data science by the end of June.
 
 
 <!--
