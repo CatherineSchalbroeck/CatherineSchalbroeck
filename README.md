@@ -9,7 +9,7 @@ Because...
 
 I'm reconverting to _**Data Science**_
 
-- [x] I will update my profile as I progress in my learning.  
+> I will update my profile as I progress in my learning.  
 
 ![image3](https://github.com/CatherineSchalbroeck/CatherineSchalbroeck/assets/77054227/3fbd4b91-afc4-46bf-8739-38125ab436fc)
 
