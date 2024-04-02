@@ -13,7 +13,7 @@ I'm reconverting to _**Data Science**_
 
 
 > [!NOTE]
-> I am currently following a Bootcamp by **HyperionDev** and should make my firsts steps
+> I am currently following a Bootcamp by **HyperionDev** and should make my firsts steps  
 > in the world of Data science by the end of June 2024.
 
 
