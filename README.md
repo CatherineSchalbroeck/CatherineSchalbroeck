@@ -10,6 +10,9 @@ Because...
 
 ![image3](https://github.com/CatherineSchalbroeck/CatherineSchalbroeck/assets/77054227/3fbd4b91-afc4-46bf-8739-38125ab436fc)
 
+> [!NOTE]
+> I'm learning with Hyperion Dev.
+
 
 <!--
 **CatherineSchalbroeck/CatherineSchalbroeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
