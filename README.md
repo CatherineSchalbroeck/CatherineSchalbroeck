@@ -4,9 +4,9 @@ I'm Catherine
 
 I'm a *Project Manager Finance*
 
-I'm currently learning __Python__ and 
+I'm currently learning __Python__, and 
 
-I'm brushing up my maths skills in statistics, probability, etc.
+I'm brushing up my skills in statistics, probability, etc.
 
 Because...
 
