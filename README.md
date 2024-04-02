@@ -10,7 +10,7 @@ Because...
 I'm reconverting to _**Data Science**_
 
 > [!NOTE]
-> I am currently following a Bootcamp by **HyperionDev** and  
+> I am currently following a Bootcamp by ***HyperionDev*** and  
 > should make my firsts steps in the world of Data science by the end of June 2024.  
 > **I will update my profile as I progress in my learning.**
 
