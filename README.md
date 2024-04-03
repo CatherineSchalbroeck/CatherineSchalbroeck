@@ -1,4 +1,4 @@
-# Hi, I'm Catherine 😎
+# Hi, I'm Catherine 
 
 I'm a *Project Manager Finance* working mostly with Excel. I'm currently learning __Python__ and brushing up my skills in statistics, probability, and linear algebra because... 
 I'm reconverting to ✨ _**Data Science**_ ✨  
