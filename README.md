@@ -6,7 +6,7 @@ I'm reconverting to ✨ _**Data Science**_ ✨
 I have enrolled in a Bootcamp by ***HyperionDev*** and should make my firsts steps in the world of Data science by the end of June 2024.  
 
 ## Where to find me 👀
-My [LinkedIn profile](www.linkedin.com/in/catherineschalbroeck) is usually the best place to start.
+My [LinkedIn profile](https://www.linkedin.com/in/catherineschalbroeck/) is usually the best place to start.
 
 
 ![image3](https://github.com/CatherineSchalbroeck/CatherineSchalbroeck/assets/77054227/3fbd4b91-afc4-46bf-8739-38125ab436fc)
