@@ -1,4 +1,4 @@
-## Hi, I'm Catherine 😎
+# Hi, I'm Catherine 😎
 
 I'm a *Project Manager Finance*  
 I'm currently learning __Python__, and   
@@ -8,7 +8,7 @@ Because...
 
 I'm reconverting to ✨ _**Data Science**_ ✨ 
 
-### Where to find me
+## Where to find me
 [Here is my LinkedIn profile:](www.linkedin.com/in/catherineschalbroeck)
 
 > [!NOTE]
