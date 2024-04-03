@@ -1,6 +1,5 @@
-## Hi there 😎
+## Hi, I'm Catherine 😎
 
-I'm Catherine  
 I'm a *Project Manager Finance*  
 I'm currently learning __Python__, and   
 I'm brushing up my skills in statistics, probability, and linear algebra  
@@ -9,6 +8,8 @@ Because...
 
 I'm reconverting to ✨ _**Data Science**_ ✨ 
 
+### Where to find me
+[Here is my LinkedIn profile:](www.linkedin.com/in/catherineschalbroeck)
 
 > [!NOTE]
 > I have enrolled in a Bootcamp by ***HyperionDev*** and should make my firsts steps in the world of Data science by the end of June 2024.  
