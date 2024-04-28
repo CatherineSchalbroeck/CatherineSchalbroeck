@@ -1,9 +1,7 @@
 # Hi, I'm Catherine 
 
-I'm a *Project Manager Finance* working mostly with Excel. I'm currently learning __Python__ and brushing up my skills in statistics, probability, and linear algebra because... 
-I'm reconverting to ✨ _**Data Science**_ ✨  
-
-I have enrolled in a Bootcamp by [HyperionDev](https://www.hyperiondev.com/) and should make my firsts steps in the world of Data science by the end of June 2024.  
+I'm a *Project Manager Finance* working mostly with Excel. I'm currently enrolled in a Data Science Skill Bootcamp with Hyperion [HyperionDev](https://www.hyperiondev.com/), learning Python and its many libraries, Machine learning, Data cleaning, etc.  
+I should make my firsts steps in the world of Data science by the end of ✨ _**June 2024**_ ✨  
 
 ## Where to find me 👀
 My [LinkedIn profile](https://www.linkedin.com/in/catherineschalbroeck/) is usually the best place to start.
