@@ -10,7 +10,7 @@ My [LinkedIn profile](https://www.linkedin.com/in/catherineschalbroeck/) is usua
 ![image3](https://github.com/CatherineSchalbroeck/CatherineSchalbroeck/assets/77054227/3fbd4b91-afc4-46bf-8739-38125ab436fc)
 
 > [!NOTE]
-> I don't have much to showcase for now but **I will update my profile as I progress in my learning.**
+> I don't have much to showcase for now but **I will update my portfolio as I progress in my learning.**
 
 
 
