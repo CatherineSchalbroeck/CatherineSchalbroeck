@@ -1,6 +1,6 @@
 # Hi, I'm Catherine 
 
-I'm a *Project Manager Finance* working mostly with Excel. I'm currently enrolled in a Data Science Skill Bootcamp with Hyperion [HyperionDev](https://www.hyperiondev.com/), learning Python and its many libraries, Machine learning, Data cleaning, etc.  
+I'm a *Project Manager Finance* working mostly with Excel. I'm currently enrolled in a Data Science Skill Bootcamp with [HyperionDev](https://www.hyperiondev.com/), learning Python and its many libraries, Machine learning, Data cleaning, etc.  
 I should make my firsts steps in the world of Data science by the end of ✨ _**June 2024**_ ✨  
 
 ## Where to find me 👀
