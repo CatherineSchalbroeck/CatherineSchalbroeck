@@ -1,7 +1,12 @@
 # Hi, I'm Catherine 
 
-I'm a *Project Manager Finance* working mostly with Excel. I'm currently enrolled in a Data Science Skill Bootcamp with [HyperionDev](https://www.hyperiondev.com/), learning Python and its many libraries, Machine learning, Data cleaning, etc.  
-I should make my firsts steps in the world of Data science by the end of ✨ _**June 2024**_ ✨  
+I'm a junior *Data Scientist* who recently graduated from [HyperionDev](https://www.hyperiondev.com/)'s Data Science Skill Bootcamp. I have advanced skills in **Data Analysis** with Excel (using complex formulas, setting up responsive dashboards, and building up macros), and have recently learned Python with libraries such as Pandas, Numpy, Seaborn, Matplotlib, etc. 
+
+> [!NOTE]
+> **Have a look at my portfolio to see examples of my work:**
+> - EDA
+> - Sentiment analysis
+> - Machine Learning 
 
 ## Where to find me 👀
 My [LinkedIn profile](https://www.linkedin.com/in/catherineschalbroeck/) is usually the best place to start.
@@ -9,8 +14,7 @@ My [LinkedIn profile](https://www.linkedin.com/in/catherineschalbroeck/) is usua
 
 ![image3](https://github.com/CatherineSchalbroeck/CatherineSchalbroeck/assets/77054227/3fbd4b91-afc4-46bf-8739-38125ab436fc)
 
-> [!NOTE]
-> I don't have much to showcase for now but **I will update my portfolio as I progress in my learning.**
+
 
 
 
