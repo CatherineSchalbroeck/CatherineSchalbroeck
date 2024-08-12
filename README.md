@@ -4,7 +4,7 @@ I'm a junior *Data Scientist* who recently graduated from [HyperionDev](https://
 
 > [!NOTE]
 > **Have a look at my portfolio to see examples of my work:**
-> - EDA
+> - EDA and Supervised learning
 > - [Sentiment analysis](https://github.com/CatherineSchalbroeck/codingTasks)
 > - [Image Processing](https://github.com/CatherineSchalbroeck/Image-Processing/blob/main/README.md)
 
