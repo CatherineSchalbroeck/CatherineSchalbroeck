@@ -8,12 +8,8 @@ I'm a junior *Data Scientist* who recently graduated from [HyperionDev](https://
 > - [Sentiment analysis](https://github.com/CatherineSchalbroeck/codingTasks)
 > - [Image Processing](https://github.com/CatherineSchalbroeck/Image-Processing/blob/main)
 
-<br>
-
 ## Where to find me 👀
 My [LinkedIn profile](https://www.linkedin.com/in/catherineschalbroeck/) is usually the best place to start.
-
-<br>
 
 ## What do I carry wih me 🧰
 - **Languages** : French (native), English, (proficient), Dutch (intermediate), Mandarin (intermediate)
