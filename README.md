@@ -6,7 +6,7 @@ I'm a junior *Data Scientist* who recently graduated from [HyperionDev](https://
 > **Have a look at my portfolio to see examples of my work:**
 > - EDA
 > - [Sentiment analysis](https://github.com/CatherineSchalbroeck/codingTasks)
-> - Machine Learning 
+> - Image Processing 
 
 ## Where to find me 👀
 My [LinkedIn profile](https://www.linkedin.com/in/catherineschalbroeck/) is usually the best place to start.
